@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Affinity Answers Task2</title>
+  </head>
+  <body>
+    <!-- apologies for the poor formatting -->
+    <div>
+      <form action="" method="GET">
+        {% csrf_token %} {{ form.as_p }}
+        <input type="submit" name="submit" value="submit">Get Data</input>
+      </form>
+    </div>
+    <br>
+    {% comment %} the below div should be visible only after teh submit button is clicked. This can be
+    completed using the css visiblity i think
+     {% endcomment %}
+    <div>
+        {% if submit_button =="submit"%}
+            {{df | safe}}
+        {% endif %}
+    </div>
+  </body>
+</html>

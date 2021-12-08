@@ -1,0 +1,150 @@
+description,industry,level,size,line_code,value
+Business status Alert Level 4: Fully operational,total,0,6–19 employees,C0301.01,6054
+Business status Alert Level 4: Fully operational,total,0,20–49 employees,C0301.01,1650
+Business status Alert Level 4: Fully operational,total,0,50–99 employees,C0301.01,735
+Business status Alert Level 4: Fully operational,total,0,100+ employees,C0301.01,711
+Business status Alert Level 4: Fully operational,"Agriculture, forestry, & fishing",1,total,C0301.01,2175
+Business status Alert Level 4: Fully operational,Agriculture,2,total,C0301.01,1839
+Business status Alert Level 4: Fully operational,Commercial fishing,2,total,C0301.01,18
+Business status Alert Level 4: Fully operational,Forestry & logging,2,total,C0301.01,6
+Business status Alert Level 4: Fully operational,"Agriculture, forestry, & fishing support services",2,total,C0301.01,312
+Business status Alert Level 4: Fully operational,Mining,1,total,C0301.01,18
+Business status Alert Level 4: Fully operational,Manufacturing,1,total,C0301.01,636
+Business status Alert Level 4: Fully operational,"Food, beverage, & tobacco",2,total,C0301.01,378
+Business status Alert Level 4: Fully operational,"Textile, clothing, footwear, & leather",2,total,C0301.01,15
+Business status Alert Level 4: Fully operational,Wood & paper product,2,total,C0301.01,27
+Business status Alert Level 4: Fully operational,"Printing, publishing, & recorded media",2,total,C0301.01,27
+Business status Alert Level 4: Fully operational,"Petroleum, coal, chemical, & associated product",2,total,C0301.01,111
+Business status Alert Level 4: Fully operational,Non-metallic mineral product,2,total,C0301.01,9
+Business status Alert Level 4: Fully operational,Metal product,2,total,C0301.01,24
+Business status Alert Level 4: Fully operational,Transport and industrial machinery & equipment,2,total,C0301.01,9
+Business status Alert Level 4: Fully operational,Other machinery & equipment,2,total,C0301.01,21
+Business status Alert Level 4: Fully operational,Other manufacturing,2,total,C0301.01,12
+Business status Alert Level 4: Fully operational,"Electricity, gas, water, & waste services",1,total,C0301.01,60
+Business status Alert Level 4: Fully operational,Construction,1,total,C0301.01,6
+Business status Alert Level 4: Fully operational,Wholesale trade,1,total,C0301.01,645
+Business status Alert Level 4: Fully operational,Machinery & equipment wholesaling,2,total,C0301.01,183
+Business status Alert Level 4: Fully operational,Other wholesale trade,2,total,C0301.01,462
+Business status Alert Level 4: Fully operational,Retail trade,1,total,C0301.01,1032
+Business status Alert Level 4: Fully operational,Accommodation & food services,1,total,C0301.01,171
+Business status Alert Level 4: Fully operational,"Transport, postal, & warehousing",1,total,C0301.01,480
+Business status Alert Level 4: Fully operational,Information media & telecommunications,1,total,C0301.01,141
+Business status Alert Level 4: Fully operational,Publishing,2,total,C0301.01,57
+Business status Alert Level 4: Fully operational,Motion picture,2,total,C0301.01,18
+Business status Alert Level 4: Fully operational,Telecommunications,2,total,C0301.01,63
+Business status Alert Level 4: Fully operational,Financial & insurance services,1,total,C0301.01,378
+Business status Alert Level 4: Fully operational,Finance,2,total,C0301.01,108
+Business status Alert Level 4: Fully operational,Insurance,2,total,C0301.01,30
+Business status Alert Level 4: Fully operational,Auxiliary,2,total,C0301.01,243
+Business status Alert Level 4: Fully operational,"Rental, hiring, & real estate services",1,total,C0301.01,99
+Business status Alert Level 4: Fully operational,"Professional, scientific, & technical services",1,total,C0301.01,2007
+Business status Alert Level 4: Fully operational,Computer systems design,2,total,C0301.01,609
+Business status Alert Level 4: Fully operational,Other professional scientific,2,total,C0301.01,1398
+Business status Alert Level 4: Fully operational,Administrative & support services,1,total,C0301.01,399
+Business status Alert Level 4: Fully operational,Education & training,1,total,C0301.01,60
+Business status Alert Level 4: Fully operational,Health care & social assistance,1,total,C0301.01,750
+Business status Alert Level 4: Fully operational,Arts & recreation services,1,total,C0301.01,0
+Business status Alert Level 4: Fully operational,Other services,1,total,C0301.01,96
+Business status Alert Level 4: Fully operational,total,0,total,C0301.01,9153
+Business status Alert Level 4: Partly operational,total,0,6–19 employees,C0301.02,10836
+Business status Alert Level 4: Partly operational,total,0,20–49 employees,C0301.02,3039
+Business status Alert Level 4: Partly operational,total,0,50–99 employees,C0301.02,1005
+Business status Alert Level 4: Partly operational,total,0,100+ employees,C0301.02,933
+Business status Alert Level 4: Partly operational,"Agriculture, forestry, & fishing",1,total,C0301.02,957
+Business status Alert Level 4: Partly operational,Agriculture,2,total,C0301.02,582
+Business status Alert Level 4: Partly operational,Commercial fishing,2,total,C0301.02,21
+Business status Alert Level 4: Partly operational,Forestry & logging,2,total,C0301.02,18
+Business status Alert Level 4: Partly operational,"Agriculture, forestry, & fishing support services",2,total,C0301.02,336
+Business status Alert Level 4: Partly operational,Mining,1,total,C0301.02,36
+Business status Alert Level 4: Partly operational,Manufacturing,1,total,C0301.02,2040
+Business status Alert Level 4: Partly operational,"Food, beverage, & tobacco",2,total,C0301.02,429
+Business status Alert Level 4: Partly operational,"Textile, clothing, footwear, & leather",2,total,C0301.02,102
+Business status Alert Level 4: Partly operational,Wood & paper product,2,total,C0301.02,156
+Business status Alert Level 4: Partly operational,"Printing, publishing, & recorded media",2,total,C0301.02,120
+Business status Alert Level 4: Partly operational,"Petroleum, coal, chemical, & associated product",2,total,C0301.02,210
+Business status Alert Level 4: Partly operational,Non-metallic mineral product,2,total,C0301.02,57
+Business status Alert Level 4: Partly operational,Metal product,2,total,C0301.02,357
+Business status Alert Level 4: Partly operational,Transport and industrial machinery & equipment,2,total,C0301.02,408
+Business status Alert Level 4: Partly operational,Other machinery & equipment,2,total,C0301.02,117
+Business status Alert Level 4: Partly operational,Other manufacturing,2,total,C0301.02,87
+Business status Alert Level 4: Partly operational,"Electricity, gas, water, & waste services",1,total,C0301.02,96
+Business status Alert Level 4: Partly operational,Construction,1,total,C0301.02,1983
+Business status Alert Level 4: Partly operational,Wholesale trade,1,total,C0301.02,1641
+Business status Alert Level 4: Partly operational,Machinery & equipment wholesaling,2,total,C0301.02,576
+Business status Alert Level 4: Partly operational,Other wholesale trade,2,total,C0301.02,1065
+Business status Alert Level 4: Partly operational,Retail trade,1,total,C0301.02,1767
+Business status Alert Level 4: Partly operational,Accommodation & food services,1,total,C0301.02,660
+Business status Alert Level 4: Partly operational,"Transport, postal, & warehousing",1,total,C0301.02,801
+Business status Alert Level 4: Partly operational,Information media & telecommunications,1,total,C0301.02,150
+Business status Alert Level 4: Partly operational,Publishing,2,total,C0301.02,66
+Business status Alert Level 4: Partly operational,Motion picture,2,total,C0301.02,33
+Business status Alert Level 4: Partly operational,Telecommunications,2,total,C0301.02,48
+Business status Alert Level 4: Partly operational,Financial & insurance services,1,total,C0301.02,225
+Business status Alert Level 4: Partly operational,Finance,2,total,C0301.02,84
+Business status Alert Level 4: Partly operational,Insurance,2,total,C0301.02,6
+Business status Alert Level 4: Partly operational,Auxiliary,2,total,C0301.02,138
+Business status Alert Level 4: Partly operational,"Rental, hiring, & real estate services",1,total,C0301.02,546
+Business status Alert Level 4: Partly operational,"Professional, scientific, & technical services",1,total,C0301.02,2202
+Business status Alert Level 4: Partly operational,Computer systems design,2,total,C0301.02,252
+Business status Alert Level 4: Partly operational,Other professional scientific,2,total,C0301.02,1950
+Business status Alert Level 4: Partly operational,Administrative & support services,1,total,C0301.02,828
+Business status Alert Level 4: Partly operational,Education & training,1,total,C0301.02,267
+Business status Alert Level 4: Partly operational,Health care & social assistance,1,total,C0301.02,912
+Business status Alert Level 4: Partly operational,Arts & recreation services,1,total,C0301.02,81
+Business status Alert Level 4: Partly operational,Other services,1,total,C0301.02,612
+Business status Alert Level 4: Partly operational,total,0,total,C0301.02,15813
+Business status Alert Level 4: Not operating,total,0,6–19 employees,C0301.03,17076
+Business status Alert Level 4: Not operating,total,0,20–49 employees,C0301.03,3573
+Business status Alert Level 4: Not operating,total,0,50–99 employees,C0301.03,687
+Business status Alert Level 4: Not operating,total,0,100+ employees,C0301.03,345
+Business status Alert Level 4: Not operating,"Agriculture, forestry, & fishing",1,total,C0301.03,810
+Business status Alert Level 4: Not operating,Agriculture,2,total,C0301.03,210
+Business status Alert Level 4: Not operating,Commercial fishing,2,total,C0301.03,18
+Business status Alert Level 4: Not operating,Forestry & logging,2,total,C0301.03,240
+Business status Alert Level 4: Not operating,"Agriculture, forestry, & fishing support services",2,total,C0301.03,342
+Business status Alert Level 4: Not operating,Mining,1,total,C0301.03,54
+Business status Alert Level 4: Not operating,Manufacturing,1,total,C0301.03,2667
+Business status Alert Level 4: Not operating,"Food, beverage, & tobacco",2,total,C0301.03,369
+Business status Alert Level 4: Not operating,"Textile, clothing, footwear, & leather",2,total,C0301.03,144
+Business status Alert Level 4: Not operating,Wood & paper product,2,total,C0301.03,336
+Business status Alert Level 4: Not operating,"Printing, publishing, & recorded media",2,total,C0301.03,87
+Business status Alert Level 4: Not operating,"Petroleum, coal, chemical, & associated product",2,total,C0301.03,135
+Business status Alert Level 4: Not operating,Non-metallic mineral product,2,total,C0301.03,141
+Business status Alert Level 4: Not operating,Metal product,2,total,C0301.03,594
+Business status Alert Level 4: Not operating,Transport and industrial machinery & equipment,2,total,C0301.03,486
+Business status Alert Level 4: Not operating,Other machinery & equipment,2,total,C0301.03,99
+Business status Alert Level 4: Not operating,Other manufacturing,2,total,C0301.03,270
+Business status Alert Level 4: Not operating,"Electricity, gas, water, & waste services",1,total,C0301.03,39
+Business status Alert Level 4: Not operating,Construction,1,total,C0301.03,4290
+Business status Alert Level 4: Not operating,Wholesale trade,1,total,C0301.03,987
+Business status Alert Level 4: Not operating,Machinery & equipment wholesaling,2,total,C0301.03,234
+Business status Alert Level 4: Not operating,Other wholesale trade,2,total,C0301.03,753
+Business status Alert Level 4: Not operating,Retail trade,1,total,C0301.03,2052
+Business status Alert Level 4: Not operating,Accommodation & food services,1,total,C0301.03,5757
+Business status Alert Level 4: Not operating,"Transport, postal, & warehousing",1,total,C0301.03,390
+Business status Alert Level 4: Not operating,Information media & telecommunications,1,total,C0301.03,105
+Business status Alert Level 4: Not operating,Publishing,2,total,C0301.03,15
+Business status Alert Level 4: Not operating,Motion picture,2,total,C0301.03,75
+Business status Alert Level 4: Not operating,Telecommunications,2,total,C0301.03,15
+Business status Alert Level 4: Not operating,Financial & insurance services,1,total,C0301.03,24
+Business status Alert Level 4: Not operating,Finance,2,total,C0301.03,24
+Business status Alert Level 4: Not operating,Insurance,2,total,C0301.03,3
+Business status Alert Level 4: Not operating,Auxiliary,2,total,C0301.03,0
+Business status Alert Level 4: Not operating,"Rental, hiring, & real estate services",1,total,C0301.03,345
+Business status Alert Level 4: Not operating,"Professional, scientific, & technical services",1,total,C0301.03,558
+Business status Alert Level 4: Not operating,Computer systems design,2,total,C0301.03,27
+Business status Alert Level 4: Not operating,Other professional scientific,2,total,C0301.03,531
+Business status Alert Level 4: Not operating,Administrative & support services,1,total,C0301.03,642
+Business status Alert Level 4: Not operating,Education & training,1,total,C0301.03,726
+Business status Alert Level 4: Not operating,Health care & social assistance,1,total,C0301.03,1152
+Business status Alert Level 4: Not operating,Arts & recreation services,1,total,C0301.03,435
+Business status Alert Level 4: Not operating,Other services,1,total,C0301.03,645
+Business status Alert Level 4: Not operating,total,0,total,C0301.03,21684
+Business status Alert Level 3: Fully operational,total,0,6–19 employees,C0302.01,10917
+Business status Alert Level 3: Fully operational,total,0,20–49 employees,C0302.01,2868
+Business status Alert Level 3: Fully operational,total,0,50–99 employees,C0302.01,1053
+Business status Alert Level 3: Fully operational,total,0,100+ employees,C0302.01,981
+Business status Alert Level 3: Fully operational,"Agriculture, forestry, & fishing",1,total,C0302.01,2766
+Business status Alert Level 3: Fully operational,Agriculture,2,total,C0302.01,2088
+Business status Alert Level 3: Fully operational,Commercial fishing,2,total,C0302.01,27
+Business status Alert Level 3: Fully operational,Forestry & logging,2,total,C0302.01,147
